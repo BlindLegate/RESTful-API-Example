@@ -1,3 +1,5 @@
+#Author: Taha Çinkılıç
+
 import titanic_prediction as tp
 from joblib import dump, load
 from flask import Flask, request

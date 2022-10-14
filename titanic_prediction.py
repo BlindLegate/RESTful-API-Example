@@ -1,3 +1,5 @@
+#Author: Taha Çinkılıç
+
 import pandas as pd
 import json
 from sklearn import svm
